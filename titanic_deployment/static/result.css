@@ -1,0 +1,22 @@
+h1,p
+{
+  font-size: 30px;
+  text-align: center;
+}
+a
+{
+  font-size: 20px;
+  position: relative;
+  left: 640px;
+}
+.firstClass
+{
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #80ff80;
+  position: relative;
+  left: 660px;
+  height: 110px;
+  width: 200px;
+  border: 5px solid black ;
+}

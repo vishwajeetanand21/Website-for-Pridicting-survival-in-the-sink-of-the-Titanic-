@@ -1,0 +1,37 @@
+body
+{
+  background-color:  #8080ff;
+  background-image: url('https://wallpaperaccess.com/full/1225469.jpg');
+  background-size: 1600px;
+}
+h1,p,h3
+{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+.instructions
+{
+  color: white;
+}
+.firstClass,.secondClass,.thirdClass,.fourthClass,.fifthClass,.sixthClass,.seventhClass,.eightClass
+{
+  font-size: 30px;
+  text-align: center;
+  border: 10px solid white;
+  border-radius: 50px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin: 20px;
+}
+.submitButton
+{
+  font-size: 20px;
+  font-family: inherit;
+  position: fixed;
+  left: 875px;
+  top: 550px;
+  height: 50px;
+  width: 100px;
+}
